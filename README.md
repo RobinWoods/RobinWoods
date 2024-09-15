@@ -40,8 +40,7 @@ Actuellement en étude d'ingénieur informatique. Je travail sur plusieurs proje
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](https://www.raspberrypi.org/)
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RobinWoods&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=RobinWoods&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)](https://github.com/RobinWoods)
 
 
 
